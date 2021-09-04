@@ -1,0 +1,40 @@
+.markdown-body {
+  padding: 2em;
+  max-width: 42em;
+  margin: auto;
+
+  .table-of-contents {
+    & > ul > li {
+      font-weight: bold;
+      margin: 1em 0;
+      & > ul {
+        margin-top: 0.5em;
+      }
+      li {
+        font-weight: normal;
+      }
+    }
+    p {
+      margin: 0;
+    }
+    ul {
+      padding-left: 0.5em;
+      list-style-type: none;
+    }
+  }
+
+  footer,
+  footer code {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  footer hr {
+    margin: 4em 0;
+  }
+
+  .logo {
+    height: 50px;
+    margin-top: 2em;
+  }
+}
