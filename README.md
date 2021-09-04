@@ -46,7 +46,7 @@ In this space, the reasoned judgement of individuals of supreme importance; the 
 
 ### Contribute
 
-This document may be updated from time to time and can be contributed to by anyone; if you'd like to add any points or corrections you are welcome to submit a [Pull Request](GITHUB_URL) to the github repository. Beyond that, we hope this message can spread far and wide, so please like, share, subscribe, hit the bell icon and print hard copies out to mail to all your friends and family.
+This document may be updated from time to time and can be contributed to by anyone; if you'd like to add any points or corrections you are welcome to submit a [Pull Request](https://github.com/web3masons/lets-keep-etc-classic) to the github repository. Beyond that, we hope this message can spread far and wide, so please like, share, subscribe, hit the bell icon and print hard copies out to mail to all your friends and family.
 
 ### License
 
@@ -1361,7 +1361,7 @@ And now, the *TL;DR version*:
 
 ### Finally
 
-We hope that this document can serve as a central repository of arguments against a Treasury, for reference and discussion if and when the idea is pursued by it's proponents. If anything is missing or needs correcting, we encourage [pull requests](GITHUB_URL), and we expect things to evolve over time.
+We hope that this document can serve as a central repository of arguments against a Treasury, for reference and discussion if and when the idea is pursued by it's proponents. If anything is missing or needs correcting, we encourage [pull requests](https://github.com/web3masons/lets-keep-etc-classic), and we expect things to evolve over time.
 
 Thanks for reading.
 
