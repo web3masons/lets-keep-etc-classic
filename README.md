@@ -2,7 +2,7 @@
 
 Arguing against the proposed protocol-layer treasury for Ethereum Classic
 
-2021.09.04
+2021.09.04 *(Updated 2021.09.09)*
 
 > We decentralists are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought.
 
@@ -52,6 +52,12 @@ This document may be updated from time to time and can be contributed to by anyo
 
 Apart from the images, this document is released to the Public Domain under CC0 (No Rights Reserved) - you are free to copy it, remix it, resell it, do whatever you want with it, and attribution is not required.
 
+### Updates
+
+If this document is edited over time, a summary of the changes will be made here:
+
+- 2021.09.09: Mention that 5 year time limit is not part of ECIP
+
 ## The Treasury Proposal
 
 Originally introduced in August 2020, The Treasury Proposal, most recently known as [Ethereum Classic Improvement Proposal #1098](https://ecips.ethereumclassic.org/ECIPs/ecip-1098) is presented as a way to secure funding for development of Ethereum Classic.
@@ -80,7 +86,7 @@ The key implementation details of The Proposal are:
   - At least 35,000,000 (~30% of all) ETC is "locked" for a given proposal
   - Locked ETC is deposited in the contract and cannot be moved for 30 days
   - 51% of the locked ETC must signal support for The Proposal to pass
-- A time limit of 5 years is set, after which The Treasury is disabled
+- Although not mentioned in the ECIP itself, a time limit of 5 years is being discussed, after which The Treasury is disabled
 - As The Treasury Proposal changes the Ethereum Classic protocol in a non-backwards-compatible way, it's implementation will require a hard fork
 
 ### A Moving Target
@@ -560,7 +566,9 @@ Unlike the ETH premine, as a one off event with a known upfront neutrality cost 
 
 ### 1,825 Days Later
 
-After 5 years, The Treasury contract reaches it's expiration. It goes poof, and the funding is stopped. The salaries of all the developers maintaining the three ETC clients are gone, they are "fired" by the protocol, and they will sadly have to go back to working on other projects.
+Some Treasury Proponents wish to limit the potential negative effects of a Treasury by implementing a time limit, with the suggestion of 5 years gaining traction in the ETC discord chat room.
+
+In this case, after 5 years, The Treasury contract reaches it's expiration. It goes poof, and the funding is stopped. The salaries of all the developers maintaining the three ETC clients are gone, they are "fired" by the protocol, and they will sadly have to go back to working on other projects.
 
 It's now game over for ETC because thanks to The Treasury client maintenance competition has gone extinct, no alternative business models are incentivized to emerge, and now funding is cut off from the only remaining client maintainers. Nothing has fundamentally changed from pre-treasury to post-treasury, indeed things have gotten worse as business models haven't been able to adapt to a non-treasury world. Following the logic of implementing a treasury to begin with, ETC is still fundamentally a "sinking ship", but now there's nobody left to rescue it.
 
