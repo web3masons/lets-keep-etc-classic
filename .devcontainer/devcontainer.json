@@ -17,7 +17,8 @@
   "extensions": [
 	"dbaeumer.vscode-eslint",
 	"streetsidesoftware.code-spell-checker",
-	"davidanson.vscode-markdownlint"
+	"davidanson.vscode-markdownlint",
+	"mhutchie.git-graph"
 ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
