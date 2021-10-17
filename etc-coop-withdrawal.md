@@ -10,9 +10,9 @@ Subsequently, [IOHK also announced](https://discord.com/channels/223674353001168
 
 ## Due Credit
 
-First and foremost we are grateful to Bob, ETC Coop and IOHK for updating the community with their decision, which enables the Treasury conversation to be moved along to it's next stage, wherever that may be. The Coop's recommitment to transparency is also appreciated and we look forward to it's continued maintenance.
+First and foremost we are grateful to Bob, ETC Coop and IOHK for updating the community with their decision, which enables the Treasury conversation to be moved along to it's next stage, wherever that may be. The Coop's recommitment to transparency is also appreciated and we look forward to it's continued maintenance and the engagement it facilitates.
 
-In our view, this potentially difficult but necessary action demonstrates that ETC Coop is both tuned-in to community sentiment and has the humility and flexibility to correct course when required. As such, for many ETC participants, the decision has raised confidence in ETC Coop's current leadership, which continues to prove itself a positive force for Ethereum Classic.
+In our view, this potentially difficult but necessary announcement demonstrates that ETC Coop is both tuned-in to community sentiment and has the humility and flexibility to correct course when required. For many ETC participants including ourselves, the decision has raised confidence in ETC Coop's current leadership, which continues to prove itself a positive force for Ethereum Classic.
 
 ## Ding, Dong, ECIP-1098 is Dead
 
@@ -30,47 +30,60 @@ With that being said, and with some additional context to engage with, we will r
 
 ## Sweeping Problems (under the rug)
 
-According to the withdrawal announcement, the primary reason for ECIP-1098 being rejected was a lack of consensus on how to solve the [ETC, not USD](/#etc-not-usd) problem, which was presumably being discussed in private by some Treasury proponents before the publication of *Let's Keep Ethereum Classic Classic*. Credit to The Coop for recognizing this as the showstopper that it is.
+According to the withdrawal announcement, the primary reason for ECIP-1098 being rejected was a lack of consensus on how to solve the [ETC, not USD](/#etc-not-usd) problem, which was presumably being discussed in private by some Treasury proponents before the publication of *Let's Keep Ethereum Classic Classic*.
 
-Whilst understandably outside the scope of the withdrawal announcement, we wish to make the point that that fixing this problem alone would only be addressing one of the Treasury's (more egregious) issues and still leaves many others on the table. If a new Treasury is proposed, hopefully attempts are made to address some of the other concerns we have highlighted previously.
+To remedy this problem, ETC Coop proposed a "sweeping mechanism" to cap the profits of Treasury Beneficiaries in the case that changes in ETC price and budget requirements caused over-funding. Allegedly this compromise was not acceptable to IOHK, which led to the withdrawal.
 
-We agree that a "sweeping mechanism" or similar system to cap private profits would *help* to remedy this particular issue with the Treasury proposal, but the solution proposed is itself far from perfect and introduces additional (albeit smaller) problems.
+Whilst understandably outside the scope of the withdrawal announcement, we wish to make the point that fixing the over-funding problem alone would only address one of the Treasury's more egregious issues and still leaves many others on the table. If a new Treasury proposal is put forward, hopefully attempts will be made to tackle some of the other concerns we have highlighted previously.
 
-- how to enforce?
-- it's totally vuluntary and incentivises budget expansion / deception
-- otherwise an oracle of some sort would be needed, but this makes things more difficult
-- even with perfect enforcement, how to give the money back?
-- cannot bring back lost network security
-- if it goes into a community pot for future funding it could still be wasted
+We agree that a "sweeping mechanism" or similar system to cap private profits would *help* with this particular problem, but this solution still seems ripe for abuse, and introduces other issues to sort out. Without diving too deep, some obvious questions come to mind:
+
+- How do participants come to consensus about how much budget is appropriate for each team?
+- What mechanism forces teams to give back unused funds, other than good will?
+- Assuming excess funds are "swept", where do they go?
+- If excess funds go a community pot, does it suffer similar problems?
+
+Sweeping is also less than ideal as the full upfront cost of network security via reduced miner rewards is still incurred, and while the dev tax could theoretically be returned to other miners post-sweep, this creates a distortion in the rewards schedule that introduces periods of relative vulnerability.
 
 ## The Bitcoin Standard
 
-To presumably to counter the idea that Ethereum Classic should follow Bitcoin's Treasuryless development funding model, the withdrawal announcement contrasts both projects:
+To presumably to counter the idea that Ethereum Classic should follow Bitcoin's treasuryless development funding model, the withdrawal announcement contrasts both projects:
 
 > Unlike Bitcoin, which could likely be run pretty much “as is” in perpetuity, the Ethereum and ETC protocol and codebases need ongoing maintenance and protocol tweaking because of the added complexity of being a general computing platform. The crypto-economics are complicated and there is much more opportunity for attack vectors.
 
-This was also follow up with additional discussion in the video debate, where Bob elaborates on this point. We agree that ETC and BTC are different beasts, and that ETC probably requires more work to maintain due to it's increased complexity and attack surface.
+This point was also discussed in the [video debate](https://youtu.be/pzA4S9gZjvk?t=4675), where Bob further argues that ETC is not currently at the same stage as BTC, which being more popular and mature, has whales and companies building on top of it who are able to donate or otherwise contribute to client development.
 
-- We agree that ETC is more complicated, more attack surface and more susceptible to economic attacks, and if the goal is to just to operate the chain "as is" with no updates, because of this it would require more effort to do so with ETC
-- Probably referring to recent attack vectors utilized against ETC (london fixed?)
-- But Bitcoin is being updated, not being run 'as is' and still manages to receive development
-- This is not an argument for a treasury, but a more focused development path, as we argue above
-- One client
-- BTC is still getting updates, such as taproot, segwit, etc, how is this possible?
-- We can only assume this is because of the sick gains made by bitcoin, and there is far more funding going on behind the scenes on bitcoin that is not coming from a treasury or central foundation, and with recent price action in ETC this should also begin to trickle down.
-- Why should we expect any different from the bitcoin path? 
+There are a few things to unpack here, but we can at least agree that ETC and BTC are different beasts, and that all things being equal ETC is likely to require more work to maintain due to it's increased complexity and attack surface, as evidenced by recent vulnerability-fixing hard forks.
+
+Despite ETC's additional development burden, it is our belief that far from justifying the need for a protocol layer treasury, the correct takeaway from a comparison with Bitcoin is to try to emulate BTC's wild success more closely, rather than further distancing ETC from this proven philosophical and development formula.
+
 - BTC is 12 years old, ETC is only 6 years old
 - BTC in 2016 wasn't that impressive, but it became so
+- Why should we expect any different from the bitcoin path?
+- Basically, the best thing to do is 'hold out' until the adoption and sick gains have come, which will naturally enable whales and can only assume this is because of the sick gains made by bitcoin, and there is far more funding going on behind the scenes on bitcoin that is not coming from a treasury or central foundation, and with recent price action in ETC this should also begin to trickle down.
+
+///
+
+- Bitcoin running "as is" is somewhat moot,
+- BTC is still getting updates, such as taproot, segwit, etc, how is this possible?
+- Bitcoin, which does not have a Treasury, has more developer hours dedicated to
 
 ## Innovation vs Implementation
 
+- One client, less complexity, less plates to spin?
+- This requires a more focused development path...
+- A big source of confusion when analysing the need for a treasury, and appeared that there is still no clear messaging on this
 - Less innovation
 - True, but this is actually solved by doing *less* innovation the core protocol and getting solid foundation over time
 - Is multiple clients actually a good idea?
 - Would it not be simpler to have one reliable, little-changing reference client (geth), rather than 3 clients with constingly catching up with an ever-changing implementaiton?
+- We beleive we should focus on reaching a point where we CAN keep running things "as is" or as close to that as possible
 
-## Refocusing
+## Time to Refocus
 
+This is just my opinion, a potential strategy to be mulled, not trying to direct anyone...
+
+- Bob seems to argue that the focus of a treasury should be on implementation rather than innovation, we agree, but there is some uncertainty about what that involves and how far away we are from that, is it so far that only  a treasury can fix it?
 - dont sink more time and energy into another treasury prposal for now, it has too many problems
 - instead, make it clear to the community how bad the problem actually is and what is required to meet minimum developometn needs
 - get rid of the confusing and illogical messaging around innovation and implementation; what is the actual mission now?
