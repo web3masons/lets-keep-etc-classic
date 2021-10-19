@@ -75,49 +75,72 @@ While ETC is certainly in a less comfortable position than BTC in this regard, E
 
 On top of this, it seems likely that as time goes on the cryptocurrency space including ETC will continue to expand, which will translate into larger market cap and more spare resources that can be dedicated to development, essential or otherwise.
 
-Whether or not ETC is already in this Goldilocks Zone, recent price rises show that it is certainly travelling in the right direction, and reaching self-sustainability is in all likelihood just a matter 'holding out'. Drastic steps like the  implementation of a protocol layer Treasury run the real risk of knocking us off course.
+Whether or not ETC is already in this Goldilocks Zone, recent price rises show that it is certainly travelling in the right direction. Reaching self-sustainability is in all likelihood a matter 'holding out', whereas disruptive moves like the  implementation of a protocol layer Treasury run the real risk of knocking us off course.
 
 ## Innovation vs Implementation
 
-One major point of confusion surrounding the Treasury that [we tried to untangle previously](/#client-development-essential) was uncertainty about what it was supposed to be funding. The framing from some that the Treasury was meant to facilitate "innovation" seemed to create a disconnect as to whether or not it was really needed at all; was it essential, or nice to have?  
+One major point of confusion surrounding the Treasury that [we tried to untangle previously](/#client-development-essential) was uncertainty about what it was actually supposed to be funding. The framing from some that the Treasury was meant to facilitate "innovation" seemed to create discontinuity as to whether or not it was really needed at all; was it purely essential, or were parts of it 'nice to have'? 
 
 Thankfully, [Bob settled this confusion](https://youtu.be/pzA4S9gZjvk?t=1898), and we agree that the real issue to be solved is not innovation per se, but implementation - in other words, if there are limited resources, it makes sense to spend them on things that are of critical importance, including keeping up the with EVM standard, fixing vulnerabilities, optimization, and client stability. For us, clarification on this point realigns expectations for the better.
 
-It's not our place to tell private organizations how spend their own budgets, but with the Treasury off the table, now seems like a good time to brainstorm potential strategies for ensuring there is enough fuel in the tank to reach self-sustainability *a la* Bitcoin. If the goal is to maximize the probability of reaching this point, resources should be utilized efficiently so that basic client upkeep is maintained for as long as possible.
+It's not our place to tell private organizations how spend their own budgets, but with the Treasury off the table, now seems like a good time to be planning strategies that help guaruntee there is enough fuel in the tank to reach self-sustainability *a la* Bitcoin. If the goal is to maximize the probability of reaching this point, resources should be utilized efficiently so that basic client upkeep can be maintained for as long as possible.
 
-To that end, we will propose some open questions that might drive some discussion 
+## Moving On
+
+The ECIP-1098 journey was long and bumpy. It brought out the best and the worst elements of Ethereum Classic. It caused many to question their beleifs about principles, pragmatism, motivations, leadership and strategy. It caused drama, uncertainty and ragequits.
+
+Luckily, as an antifragile system, ETC gained from this disorder immenseley. It persisted with yet another battle scar and has emerged the other side stronger and more mature, proving that once again that this cockroach can survive anything that is thrown at it. Somehow, along the way it even managed to 10x in market cap.
+
+The main takeaway from this whole ordeal, from our perspective, is hopefully a collective recognition that controversial proposals are a non-starter. If supporters of a proposal are not willing to cause a chain split and consensus clearly cannot be reached, dragging things out only wastes time and energy. Having gone through this once, ETC now has a valuable reference point that will hopefully streamline decision making forevermore.
+
+We hope that this new knowledge will be acted on, as after such a long period of uncertainty, ETC finds itself with a new zeitgeist and a new set of undanswered questions. The death of ECIP-1098 and the clarification around innovation vs implementation presents a great opportunity to provide ETCistan with a *state of the union* address, and an update to the public roadmap so that all participants can once again consolidate and rally around a shared vision.
+
+What has been particularly concerning for many stakeholders is the apparent disconnect between the clearly stated principles and ideals that ETC proports to represent and the contradictory reasoning of some of it's larger custodians. Even with the best of intentions, some of the more dogmatic Ethereum Classic supporters will understandably have a distain for much of the messaging around any kind of Treasury.
+
+What is neeed now is a refocus and recommitment to our universally accepted decentralist goals to get the community back on the right footing, dispel the FUD, and push ETC forward to new heights. To this end, whilst we can accept that the withdrawal announcement does not guaruntee the extinction of all future treasury proposals, we hope that for at least for the mid term the idea of implementing one remains on ice.
+
+## The Bus Factor
+
+Point 2: Suggestions for the future
+
+- instead, make it clear to the community how bad the problem actually is and what is required to meet minimum developometn needs
+
+- With recent price rises, what is the current runway in for the financing of client development?
+
+
+- An interesting a relevant point brought up the discussion was ... explain ... similar to the goldilocks zone
+- To come back to the bitcoin comparison, we agree that this point is an ideal, and getting to the stage where ETC is as close to bitcoin as possible with regards to the "The Bus Factor"
+- Our suggestion is to try to get ETC in a palce where the bus factor is as low as possible and ideally 0. some believe we are already there.
+
+
+- What can be done to extend this runway, should that be required?
+
+- We beleive we should focus on reaching a point where we CAN keep running things "as is" or as close to that as possible
+
+Whilst there are other potential large upgrades on the horizon such as SHA3, how should development time be prioritized? Is the goal to reach a relative point of stability before implementing this larger upgrades? feasible to reach a point of relative
+
 
 - How has the recent increase in reserves affected the roadmap/runway for client maintenance?
 - One client, less complexity, less plates to spin?
-- This requires a more focused development path...
+- This requires a more focused development path..
 - Less innovation
 - True, but this is actually solved by doing *less* innovation the core protocol and getting solid foundation over time
 - Is multiple clients actually a good idea?
 - Would it not be simpler to have one reliable, little-changing reference client (geth), rather than 3 clients with constingly catching up with an ever-changing implementaiton?
-- We beleive we should focus on reaching a point where we CAN keep running things "as is" or as close to that as possible
 
-## Time to Refocus
 
 - Is it possible to quantify what the real world costs of minimal necessary development of one client, and if so, 
-
-This is just my opinion, a potential strategy to be mulled, not trying to direct anyone...
-
-- Bob seems to argue that the focus of a treasury should be on implementation rather than innovation, we agree, but there is some uncertainty about what that involves and how far away we are from that, is it so far that only  a treasury can fix it?
-- dont sink more time and energy into another treasury prposal for now, it has too many problems
-- instead, make it clear to the community how bad the problem actually is and what is required to meet minimum developometn needs
-- get rid of the confusing and illogical messaging around innovation and implementation; what is the actual mission now?
-- Don't tamper with it until it's absolutely necessary
 - Create a fund that is specifically for maintenance, one client, bare minimum
 - If it is this basic level of maintenance that is sought after, price it up and solicit funding publically, not just from DFG, know that many people will happily donate if it means this otherwise essential development doesn't get done, pay yourselves a salary to manage it, fine, but and perhaps this transparency will be a path towards future funding
-- This basic and essential level of development requirements contrasts with the main argument for a  treasury, which intends for the funds to be used for "innovation" to compete
-- This ambiguity of intent is likely responsible for a lot of uncertainty around devleopment requiements and is not necessary
+
 - How much does it cost to meet the basic development requirements? If we know this, then we can look towards funding models that can probably meet those requriements
 - use reserves WISELY for maintanance only
-- DeFudding
 - Idea: donations system for signalling
 - What does ETC Coop see it's role as?
 - patreon on ETC
-- status on a new treasury proposal?
-- this conversation is a very healthy sign, it means ETC solves this then it proves itself to be self sustaining and much more powerful
+
+## Signs of Resilience
+
+this conversation is a very healthy sign, it means ETC solves this then it proves itself to be self sustaining and much more powerful
 
 Anyway, with disagreements out of the way, it is clear that the overall goal of achieving success for ETC is not in doubt, and are glad that at least one essential part of ETC, it's open and decentralized decision-making process, is working as intended.
