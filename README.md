@@ -2,7 +2,7 @@
 
 Arguing against the proposed protocol-layer treasury for Ethereum Classic
 
-2021.09.04 *(Updated 2021.09.09)*
+2021.09.04 *([Updated](#updates) 2021.10.21)*
 
 > We decentralists are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought.
 
@@ -54,8 +54,9 @@ Apart from the images, this document is released to the Public Domain under CC0 
 
 ### Updates
 
-If this document is edited over time, a summary of the changes will be made here:
+If this document is edited and responded to over time, a summary of changes and feedback will be made here:
 
+- 2021.10.21: [Add response](/etc-coop-withdrawal) to ECIP-1098 being withdrawn
 - 2021.09.09: Mention that 5 year time limit is not part of ECIP
 
 ## The Treasury Proposal

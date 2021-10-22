@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "My Gatsby Site",
+    title: "Let's keep Ethereum Classic Classic",
   },
   plugins: [
     "gatsby-plugin-sass",
@@ -14,7 +14,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 600,
-             linkImagesToOriginal: false
+              linkImagesToOriginal: false
             },
           },
           {
@@ -43,17 +43,9 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "pages",
-        path: "./src/pages/",
-      },
-      __key: "pages",
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
         name: "documents",
         path: "./",
-        ignore: [`**/\.*`, "node_modules/**", `src/**`, `public/**`],
+        ignore: [`**/\.*`, "node_modules/**", `src/**`, `public/**`, `posts/**`],
       },
       __key: "documents",
     },
