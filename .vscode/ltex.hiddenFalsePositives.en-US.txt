@@ -1,0 +1,5 @@
+{"rule":"CONFUSION_DUE_DO","sentence":"^\\QDue Credit\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QAccording to the withdrawal announcement, the primary reason for ECIP-1098 being rejected was a lack of consensus on how to solve the ETC, not USD problem, which was presumably being discussed in private by some Treasury proponents before the publication of Let's Keep Ethereum Classic Classic.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QTo presumably to counter the idea that Ethereum Classic should follow Bitcoin's treasuryless development funding model, the withdrawal announcement contrasts both projects:\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QIt caused drama, uncertainty and ragequits.\\E$"}
+{"rule":"A_INFINITIVE","sentence":"^\\QWhat is needed now is a refocus and recommitment to our universally accepted decentralist goals to get the community back on the right footing, dispel the FUD, and push ETC forward to new heights.\\E$"}
