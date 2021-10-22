@@ -1,12 +1,14 @@
 # Response to ETC Coop Withdrawing Support for ECIP-1098
 
-2021.10.15
+2021.10.21
 
 On September 20th 2021, a couple of weeks after *Let's Keep Ethereum Classic Classic* was published, Bob Summerwill, Executive Director of ETC Cooporative, informed the ETC community that The Coop have withdrawn their support for the existing ECIP-1098 Treasury proposal.
 
 The announcement was [accompanied by a blog post](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) on the ETC Coop website, which we encourage interested readers to check out. We also recommend reviewing [the video debate between Bob Summerwill and Donald McIntyre](https://youtu.be/pzA4S9gZjvk) that discusses The Coop's withdrawal and provides some additional context to their decision.
 
 Subsequently, [IOHK also announced](https://discord.com/channels/223674353001168906/223674353001168906/898565688707411978) their withdrawal of support for ECIP-1098.
+
+*Update:* [ECIP-1098 status](https://ecips.ethereumclassic.org/ECIPs/ecip-1098) is now 'Withdrawn'.
 
 ## Due Credit
 
